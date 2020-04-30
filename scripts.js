@@ -6,7 +6,8 @@ $('p').css('padding', '10px');
 $('h2').toggleClass('blue');
 $('h2').toggleClass('blue');
 
-console.log('Script file is loaded.');
+console.log('Script fil
+e is loaded.');
 
 // Single line comment
 
